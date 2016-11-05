@@ -27,6 +27,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'autoprefixer-rails', '~> 6.5', '>= 6.5.1.1'
 gem 'devise', '~> 4.2'
 gem 'jquery-ui-rails', '~> 5.0', '>= 5.0.5'
+gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.5', '>= 3.5.2'
